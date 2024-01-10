@@ -1,0 +1,16 @@
+{
+  "name": "eslint-snippet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my-file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@stylistic/eslint-plugin": "^1.5.3",
+    "@stylistic/eslint-plugin-js": "^1.5.3",
+    "eslint": "^8.56.0"
+  }
+}
